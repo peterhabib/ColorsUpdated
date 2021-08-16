@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53685b47-959b-416b-9d5b-4fdb6ac753cc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/css/fontawesome-all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/css/noscript.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/js/breakpoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/js/browser.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/js/jquery.scrollex.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/js/jquery.scrolly.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/js/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/sass/base/_page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/sass/base/_reset.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/sass/base/_typography.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/sass/components/_actions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/sass/components/_box.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/sass/components/_button.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/sass/components/_contact-method.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/sass/components/_form.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/sass/components/_icon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/sass/components/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/sass/components/_image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/sass/components/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/sass/components/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/sass/components/_row.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/sass/components/_section.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/sass/components/_spotlights.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/sass/components/_table.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/sass/components/_tiles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/sass/layout/_banner.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/sass/layout/_contact.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/sass/layout/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/sass/layout/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/sass/layout/_main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/sass/layout/_menu.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/sass/layout/_wrapper.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/sass/libs/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/sass/libs/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/sass/libs/_html-grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/sass/libs/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/sass/libs/_vars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/sass/libs/_vendor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/sass/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/sass/noscript.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/static/assets/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/static/1441111722484.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/static/A27212_Ion-S5-Front-650x600.jpg-650.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/static/A30886-650x600.jpg-650 (1).webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/static/A30886-650x600.jpg-650.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/static/Screenshot from 2020-12-15 14-06-04 (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/static/Screenshot from 2020-12-15 14-06-04 (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/static/Screenshot from 2020-12-15 14-06-04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/static/analysis.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/static/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/static/cc-bg-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/static/clinilab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/static/colors.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/static/colors_logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/static/ezgif.com-gif-maker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/static/gettyimages-932737574-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/static/lang-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/static/peter.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/static/pic01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/static/pic02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/static/pic03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/static/pic04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/static/pic05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/static/pic06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/static/pic07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/static/pic08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/static/pic09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/static/pic10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/static/pic11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/static/pp.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/static/proton.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello/templates/index_colors.html" beforeDir="false" afterPath="$PROJECT_DIR$/hello/templates/index_colors.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wnzLe1f10J3iPURFpdjif3yD7h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hello/static" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\ColorsDB\python-getting-started-main\hello\static" />
+      <recent name="F:\ColorsDB\python-getting-started-main\hello\templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="python-getting-started-main" type="Python.DjangoServer" factoryName="Django server">
+      <module name="python-getting-started-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53685b47-959b-416b-9d5b-4fdb6ac753cc" name="Changes" comment="" />
+      <created>1629109085552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629109085552</updated>
+      <workItem from="1629109088221" duration="4187000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
